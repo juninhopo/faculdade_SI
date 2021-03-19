@@ -116,3 +116,22 @@ Op == | op1 == op2 | op1 for igual que op2
 Op != | op1 != op2 | op1 for diferente que op2
 Op && | op1 && op2 | se op1 e op2 forem verdadeiros
 Op \\|\\| | op1 \\|\\| op2 | se op1 ou op2 for verdadeiro
+
+# Estruturas basicas de Programacao
+
+- Blocos
+- Escopo das variaveis
+- Comando Condicional
+- Desvios de Fluxo
+- Estruturas de repeticao ou laco
+
+## Blocos
+
+- Conjunto de linhas de codigos situadas entre um abre e um fecha chaves ( {} ). E permitido criar blocos dentro de blocos.
+
+Ex: { //inicio de bloco
+    ...
+    /*bloco de comandos*/
+    ...
+} //fim de bloco
+
