@@ -14,6 +14,8 @@
 - [Estruturas basicas de Programacao](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#estruturas-basicas-de-programacao)
 - [Escopo de variaveis](https://github.com/juninhopo/faculdade_SI/blob/main/java/sobre-java.md#escopo-de-variaveis)
 
+# Inicio
+
 # Utilizacoes e Aplicacoes do Java
 
 - Desenvolvimento de aplicativos corporativos de grande porte.
@@ -23,7 +25,7 @@
 
 # Como e o funcionamento do java?
 
-### <strong><italic>Editor --> .java --> Compilador --> .class --> Carregador --> bytecodes --> Verificador --> bytecodes --> Interpretador</italic></strong>
+### <strong>Editor --> .java --> Compilador --> .class --> Carregador --> bytecodes --> Verificador --> bytecodes --> Interpretador</strong>
 
 Editor - E o local onde realiza a escrita (desenvolvimento) do programa (codigo fonte). Se faz necessario um editor de texto como o bloco de notas do Windows ou Vi do Linux (respeita meu VSCODE). Existem tambem os ambientes de desenvolvimento integrado (IDE = Integrated Development Enviroment) que fornecem muitas ferramentas de suporte ao processo de desenvolvimento de software em Java e outras linguagens.
 
