@@ -192,3 +192,7 @@ switch (variavel)
     - continue;
 
 - Break: o comando termina a execucao de um loop sem executar o resto dos comando e forca a saida do laco.
+- Continue: o comando termina a execucao de um laco sem executar o resto dos comandos, voltando para o inicio do laco, para uma nova interacao.
+
+
+
